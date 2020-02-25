@@ -1,0 +1,1 @@
+Seeing as the list of integers is random, I wanted to have the best worst-case runtime. As a result, to execute MegaSort, I chose to use a merge sort. With Big-O being nlog(n), said sort is faster than quick sort, bubble sort, insertion sort, and selection sort (all having a Big-O of n^2).
